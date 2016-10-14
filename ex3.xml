@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diplomes>
+  <licences>
+    <semestre>
+      <parcour id="Info">
+        <nom>Algorithme</nom>
+        <nom>Javascript</nom>
+      </parcour>
+	  <parcour id="Info2">
+        <nom>Algorithme</nom>
+      </parcour>
+      <parcour id="ModSim">
+        <nom>Modélisation et simulation</nom>
+      </parcour>
+	  <parcour id="ModSim2">
+        <nom>Modélisation et simulation</nom>
+      </parcour>
+    </semestre>
+  </licences>
+</diplomes>
+

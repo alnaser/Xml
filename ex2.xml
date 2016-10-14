@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<personnes>
+ <etudiant classe="IG2">
+ <nom>Ben Salem</nom>
+ <prenoms>
+ <prenom>Ali</prenom>
+ <prenom>Salah</prenom>
+ </prenoms>
+ </etudiant>
+  <etudiant classe="IG27">
+ <nom>Ben Salem</nom>
+ <prenoms>
+ <prenom>Ali</prenom>
+ <prenom>Salah</prenom>
+ </prenoms>
+ </etudiant>
+ <etudiant classe="IG1">
+ <nom>Ben Saied</nom>
+ </etudiant>
+ <etudiant classe="IG1">
+ <nom>Lajmi</nom>
+ </etudiant>
+ <etudiant classe="IG1">
+ <nom>Lajmi</nom>
+ </etudiant>
+ <etudiant classe="IG2">
+ <nom>Lajmi</nom>
+ </etudiant>
+ <etudiant classe="IG1">
+ <nom>Lajmi</nom>
+ </etudiant>
+ <etudiant classe="IG1">
+ <nom>Lajmi</nom>
+ </etudiant>
+ <etudiant classe="IG1">
+ <nom>Lajmi</nom>
+ </etudiant>
+ 
+</personnes>
